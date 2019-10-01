@@ -1,9 +1,13 @@
 body {
   background-image: url(../img/"repprint.jpg");
-  
+
 }
 
 header h1 {
 	font-family: 'Playfair Display', serif;
 	text-align: center;
+}
+
+.wiped {
+	font-family: 'Playfair Display', serif;
 }
