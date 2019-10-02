@@ -1,8 +1,6 @@
 body {
   background-image: url("../img/repprint.jpg");
-  width: 100%;
-  height: 100%;
-  background-size: 1000px 500px;
+  background-repeat: no-repeat;
 }
 
 header h1 {
