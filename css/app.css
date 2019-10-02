@@ -18,3 +18,7 @@ header h1 {
 h2 + h3 {
 	font-family: 'Lora', serif;
 }
+
+h2 {
+	font-family: 'Bree Serif', serif;
+}
