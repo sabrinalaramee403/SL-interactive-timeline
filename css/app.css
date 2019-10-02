@@ -6,6 +6,7 @@ body {
 header h1 {
 	font-family: 'Playfair Display', serif;
 	text-align: center;
+	font-size: 5rem;
 }
 
 .wiped {
