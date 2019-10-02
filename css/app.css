@@ -9,6 +9,12 @@ header h1 {
 	font-size: 5rem;
 }
 
+header {
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+	font-size: 2rem;
+}
+
 .wiped {
 	font-family: 'Lora', serif;
 	background-color: black;
