@@ -22,7 +22,7 @@ header {
 	padding: 15px;
 }
 
-h2 + h3 {
+h3 {
 	font-family: 'Lora', serif;
 }
 
